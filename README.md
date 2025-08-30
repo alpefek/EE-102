@@ -1,4 +1,4 @@
-# EE-102
+# EEE-102
 Lab and project assignments for the EEE-102 course that have been given out in the Spring 2025 semester.
 
 Any extra added text for each document will be RED and all other included contents will be unchanged.
